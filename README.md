@@ -3,7 +3,7 @@
 1. install [Java](https://www.java.com/nl/download/).
 2. download the neipack files [here](https://github.com/neotje/neipack/archive/1.12.2.zip).
 3. Extract all files from the downloaded zip.
-4. double click on the forge-1.12.2-14.23.5.2854-installer.jar to open the forge installer.
+4. double click on the forge-1.12.2-14.23.5.2854-installer.jar in the extracted neipack files to open the forge installer.
 5. in the installer window select "Install client" and hit "OK".
 6. Go to the minecraft folder by entering "%appdata%\.minecraft" in windows explorer path bar (see image below).
 
