@@ -5,6 +5,9 @@
 3. Extract all files from the downloaded zip.
 4. double click on the forge-1.12.2-14.23.5.2854-installer.jar in the extracted neipack files to open the forge installer.
 5. in the installer window select "Install client" and hit "OK".
+
+![forge installer](https://i.imgur.com/NeTywib.png)
+
 6. Go to the minecraft folder by entering "%appdata%\.minecraft" in windows explorer path bar (see image below).
 
 ![alt text](https://i.imgur.com/Z8v2xcs.png)
